@@ -1,3 +1,6 @@
+Linha 1 do local
+
+
 -->Meu primeiro arquivo
 --> modificado pelo outro colega.
 
