@@ -1,7 +1,7 @@
 -->Meu primeiro arquivo
-
+--> modificado pelo outro colega.
 
 --> foi modificado
-
+--> duas vezes pelo colega.
 
 --> segunda modificação.
