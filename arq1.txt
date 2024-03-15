@@ -1,5 +1,7 @@
+
 Linha 1 do local
 
+--> Linha 1 do remoto.
 
 -->Meu primeiro arquivo
 --> modificado pelo outro colega.
