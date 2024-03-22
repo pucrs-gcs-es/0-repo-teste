@@ -1,4 +1,6 @@
 My main
 
-main()
+main() {
+printf("da Maria");
+}
 
