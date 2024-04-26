@@ -1,7 +1,6 @@
 teste
 teste
 teste
-
-
+            (this line left intentionally)
 teste depois de espaço em branco
 
